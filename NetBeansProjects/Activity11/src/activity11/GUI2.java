@@ -6,7 +6,7 @@ package activity11;
 
 /**
  *
- * @author L12X17W20
+ * @author L12X17W13
  */
 
 import javax.swing.*;
