@@ -6,7 +6,7 @@ package oop2_cabasag;
 
 /**
  *
- * @author L12X17W20
+ * @author L12X17W13
  */
 public class OOP2_CABASAG {
 
